@@ -1,0 +1,29 @@
+.all
+{
+    width: 90%; 
+    margin: auto;
+}
+.main
+{
+    width: 75%; 
+    margin: auto;
+    height:  300px ;
+}
+.main .show
+{
+    background-color: tan;
+    width: 100%;
+    height: 100%;
+}
+
+.images
+{
+    width: 100%; 
+    height: 200px; 
+}
+
+.images img 
+{
+    width: 20%; 
+    float: left; 
+}
